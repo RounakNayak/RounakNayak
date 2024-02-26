@@ -2,6 +2,8 @@
 
 **`A passionate Fullstack Developer`**
 
+<img align="right" src="./hello.png"/>
+
 - 🌱 I’m currently studying **Computer Science & Engineering.**
 
 - 🧑‍💻 Interested in **Artificial Intelligence & Software Development.**
@@ -45,6 +47,3 @@
   <a href="mailto:rounaknayak02@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/rounaknayak" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
 </p>
-
-<br>
-<img align="right" src="./hello.png"/>
