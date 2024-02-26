@@ -1,4 +1,4 @@
-# Hey, I'm R<img height="25" width="25" src="https://img.hotimg.com/png-clipart-gopher-computer-software-implementation-computer-programming-others-computer-program-cartoon-removebg-preview.png" alt="png-clipart-gopher-computer-software-implementation-computer-programming-others-computer-program-cartoon-removebg-preview.png" border="0" />unak
+# 🏄‍♂️ Hey, I'm Rounak
 
 **`A Fullstack Developer`**
 
