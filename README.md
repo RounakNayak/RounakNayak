@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rounak</h1>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FixmiRmT_golang-mascot-hd-png-download%2F&psig=AOvVaw1VMz2JVrhYx1D0i98KYuiL&ust=1709041614890000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjs0q-SyYQDFQAAAAAdAAAAABAJ" />
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
