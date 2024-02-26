@@ -17,6 +17,7 @@
 ---
 
 ### 🧰 Languages and Tools:
+
 <p align="left">
   <img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/>
@@ -45,9 +46,8 @@
   <a href="https://linkedin.com/in/rounaknayak" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
 </p>
 
-
 <br>
-
+  <img src="./hello.png"/>
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
