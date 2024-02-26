@@ -1,6 +1,6 @@
 # 🏄‍♂️ Hey, I'm Rounak
 
-**`A passionate Fullstack Developer`**
+**`A Fullstack Developer`**
 
 <img align="right" width="200" height="200" src="https://cdn4.iconfinder.com/data/icons/jolly-icons-social-media-and-communication/120/2014-social-github-octocat-512.png" />
 
