@@ -2,7 +2,6 @@
 
 **`A passionate Fullstack Developer`**
 
-<img align="right" src="./hello.png"/>
 
 - 🌱 I’m currently studying **Computer Science & Engineering.**
 
