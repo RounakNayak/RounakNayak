@@ -2,7 +2,7 @@
 
 **`A Fullstack Developer`**
 
-<img align="right" width="200" height="200" src="https://www.slazzer.com/downloads/0eaab004-d59f-11ee-af44-42010a800009/Untitled%20design%20%2811%29_prev_ui.png" />
+<img align="right" width="200" height="200" src="https://cdn4.iconfinder.com/data/icons/jolly-icons-social-media-and-communication/120/2014-social-github-octocat-512.png" />
 
 - 🌱 I’m currently studying **Computer Science & Engineering.**
 
