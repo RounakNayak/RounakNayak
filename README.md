@@ -4,11 +4,11 @@
 
 <img align="right" width="200" height="200" src="https://cdn4.iconfinder.com/data/icons/jolly-icons-social-media-and-communication/120/2014-social-github-octocat-512.png" />
 
-- 🌱 I’m currently studying **Computer Science & Engineering.**
+-  I’m currently studying **Computer Science & Engineering.**
 
-- 🧑‍💻 Interested in **Artificial Intelligence & Software Development.**
+-  Interested in **Artificial Intelligence & Software Development.**
 
-- 📫 How to reach me **rounaknayak02@gmail.com**
+-  How to reach me **rounaknayak02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
