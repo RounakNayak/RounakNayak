@@ -30,7 +30,7 @@ I’m currently studying **Computer Science & Engineering.** I am interested in 
 
 <p align="right">
   <img
-    src="https://komarev.com/ghpvc/?username=RounakNayak&color=E36414"
+    src="https://komarev.com/ghpvc/?username=RounakNayak&color=96EFFF"
     alt="RounakNayak"
   />
 </p>
