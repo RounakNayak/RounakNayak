@@ -27,9 +27,8 @@ I’m currently studying **Computer Science & Engineering.** I am interested in 
 - **DevOps Tools:** AWS, Docker, CI/CD pipelines, Nginx
 - **Version Control and Operating Systems:** Git / GitHub / GitLab, Linux server environment
 
-<br>
-<br>
-<p align="left">
+
+<p align="right">
   <img
     src="https://komarev.com/ghpvc/?username=RounakNayak"
     alt="RounakNayak"
