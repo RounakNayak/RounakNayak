@@ -21,7 +21,7 @@ I’m currently studying **Computer Science & Engineering.** I am interested in 
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, C/C++, Python, R
+- **Languages:** JavaScript, C/C++, Python
 - **Web Technologies:** HTML, CSS, JavaScript, React, Next, Express, Node, Fastify etc
 - **Databases:** MonogoDB, PostgreSQL, MySQL
 - **DevOps Tools:** AWS, Docker, CI/CD pipelines, Nginx
