@@ -4,7 +4,7 @@
 
 <img align="right" width="200" height="200" src="https://cdn4.iconfinder.com/data/icons/jolly-icons-social-media-and-communication/120/2014-social-github-octocat-512.png" />
 
-I'm currently studying **Computer Science & Engineering.** I am interested in **Artificial Intelligence & Software Development.** I also love playing football, listening to music, writing. Casual to using, curious to making.
+I am currently studying **Computer Science & Engineering.** I am interested in **Artificial Intelligence & Software Development.** I also love playing football, listening to music, writing. Casual to using, curious to making.
 
 *How to reach me:* **rounaknayak02@gmail.com**
 
