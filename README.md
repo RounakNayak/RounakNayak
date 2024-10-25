@@ -1,4 +1,4 @@
-## 🏄‍♂️ Hey, I'm Rounak
+## 🏄‍♂️ Hey, I am Rounak
 
 **`A Fullstack Developer`**
 
